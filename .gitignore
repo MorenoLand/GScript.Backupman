@@ -1,0 +1,15 @@
+config.json
+debug.log
+grclib.dll
+*.dll
+*.pdb
+*.lib
+*.exp
+*.pyc
+__pycache__/
+Servers/
+Servers.*/
+backups/
+dist/
+scriptbackups/
+shit/

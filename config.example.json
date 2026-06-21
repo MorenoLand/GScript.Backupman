@@ -1,0 +1,22 @@
+{
+  "listserver_name": "Example",
+  "listserver_host": "127.0.0.1",
+  "listserver_port": 14922,
+  "listserver_account": "YourAccount",
+  "listserver_password": "YourPassword",
+  "debug_mode": false,
+  "force_rescan": false,
+  "backupboi_compat_pcid": true,
+  "only_download_enabled": false,
+  "only_download_folders": [
+    "levels/",
+    "weapons/",
+    "npcs/"
+  ],
+  "skip_folders": [
+    "logs/",
+    "backups/",
+    "accounts/"
+  ],
+  "grclib_path": ""
+}
